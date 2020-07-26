@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PADCX_CustomViewAssignment_NCT</string>
+    <string name="txt_omp_dashboard">OMP Dashboard</string>
+    <string name="txt_in_progress">In Progress</string>
+    <string name="txt_create_additional_pages">Create additional pages</string>
+    <string name="txt_date">03 days | Dec 18, 2019</string>
+    <string name="txt_data">Data</string>
+    <string name="txt_tasks">Tasks</string>
+    <string name="txt_design">#Design</string>
+    <string name="txt_contact_page">Contact page</string>
+    <string name="txt_comment_count">3</string>
+    <string name="txt_file_count">5</string>
+    <string name="txt_text">N2 163</string>
+    <string name="txt_closed_tasks">Closed tasks</string>
+    <string name="txt_open_tasks">Open tasks</string>
+    <string name="txt_closedtask_count">361</string>
+    <string name="txt_opentask_count">3</string>
+    <string name="txt_name">Zachary Butler</string>
+    <string name="txt_ui_designer">UI Designer</string>
+    <string name="txt_message">Message</string>
+    <string name="txt_create_new_task">A Create New Task</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_client">CLIENT</string>
+    <string name="txt_project_name">PROJECT NAME</string>
+    <string name="txt_dash">-</string>
+    <string name="txt_assignee">ASSIGNEE</string>
+    <string name="txt_category">CATEGORY</string>
+    <string name="txt_design_lbl">✓  Design</string>
+    <string name="txt_frontend">Frontend</string>
+    <string name="txt_backend">Backend</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_attachments">ATTACHMENTS</string>
+    <string name="txt_reference">Reference_1</string>
+    <string name="txt_size">168 KB</string>
+    <string name="txt_create_task">CREATE TASK</string>
+    <string-array name="spinner_items">
+        <item>Show in days</item>
+    </string-array>
+</resources>
